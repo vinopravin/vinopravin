@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ### Welcome to vinopravin's Profile! Feel free to roam around.😄
+![](https://komarev.com/ghpvc/?username=vinopravin&style=flat-square&color=blue)
 
 <!-- **vinopravin/vinopravin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
