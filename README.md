@@ -3,29 +3,17 @@
 ### Welcome to vinopravin's Profile! Feel free to roam around.😄
 ![](https://komarev.com/ghpvc/?username=vinopravin&style=flat-square&color=blue)
 
-<!-- **vinopravin/vinopravin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 &nbsp;Tech Stack
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-# Let's talk about Saiem Saeed [![HitCount](http://hits.dwyl.com/saiemsaeed/saiemsaeed.svg)](http://hits.dwyl.com/saiemsaeed/saiemsaeed)
-
-As someone who is always passionate for learning more about tech and life. Saiem Saeed grew up developing web scripts static websites and ever since he's a self taught web developer. From those humble beginnings, he has evolved into a Full Stack Engineer who loves working with cutting edge tools and technologies, experimenting design×development×data integrations and keen to share his experience with people around the world. He, like any developer who has burnt the midnight oil, knows how to make a mean cup of coffee ☕️ ! 
-
-  * 👨🏻‍💻 &nbsp; Works at **Afiniti** as Full Stack Engineer, a multinational data and software company.
-  * 💬 &nbsp; People ask him about `JavaScript / TypeScript, React, Redux, Node / Express, Firebase, MongoDB, etc`.
-  * 📖 &nbsp; Learning about `Microservices, RxJS`
-  * 🤝 &nbsp; Contribute to Open Source Projects
-
-<br />
-📩 &nbsp; Feel free to contact him. He is always there for you...
-
-&nbsp; &nbsp; &nbsp; &nbsp;[![LinkedIn](https://raw.githubusercontent.com/saiemsaeed/saiemsaeed/master/linkedin-icon.png)](https://www.linkedin.com/in/saiemsaeed/) &nbsp;&nbsp; [![Twitter](https://raw.githubusercontent.com/saiemsaeed/saiemsaeed/master/twitter-icon.png)](https://twitter.com/saiemsaeed) &nbsp;&nbsp; [![Instagram](https://raw.githubusercontent.com/saiemsaeed/saiemsaeed/master/instagram-icon.png)](https://www.instagram.com/saiemsaeed/) -->
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)&nbsp;
+![Express](https://img.shields.io/badge/-Express-444444?style=flat&logo=Node.js)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=DD0031)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp; \
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
