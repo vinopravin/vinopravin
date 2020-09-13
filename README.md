@@ -26,5 +26,7 @@ A highly resourceful computer programmer and well-rounded IT professional with o
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-333333?style=flat&logo=google-cloud) &nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<a href="https://github.com/vinopravin">
+    <img align="right" alt="Profile Visit Count" src="https://komarev.com/ghpvc/?username=vinopravin&style=flat-square&color=blue" />
+</a>
 
-![](https://komarev.com/ghpvc/?username=vinopravin&style=flat-square&color=blue)
