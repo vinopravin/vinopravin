@@ -3,7 +3,7 @@
 ### Welcome to vinopravin's Profile! Feel free to roam around.😄
 
 ### About Me.
-A highly resourceful computer programmer and well-rounded IT professional with over 3+ years of experience in Programming and Development, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+A highly resourceful computer programmer and well-rounded IT professional with over 3+ years of experience in Programming and Development, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications.
 
 ### 🛠 &nbsp;Tech Stack
 
